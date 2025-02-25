@@ -1,0 +1,23 @@
+   #include <iostream>
+   
+   int main() {
+       double num1, num2;
+
+       std::cout << "3";
+       std::cin >> num1;
+
+       std::cout << "5";
+       std::cin >> num2;
+
+       double sum = num1 + num2;
+       double product = num1 * num2;
+
+       std::cout << "3" << num1 << std::endl;
+       std::cout << "5" << num2 << std::endl;
+       std::cout << "8" << sum << std::endl;
+       std::cout << "15" << product << std::endl;
+       std::cout << "2" << difference << std::endless;
+       return 0;
+   }
+   
+   
